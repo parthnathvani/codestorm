@@ -1,0 +1,8 @@
+{
+  "name": "EventEase — College Event Registration & Check-In Platform",
+  "description": "Production-grade college event management platform with student discovery, QR ticketing, real-time check-in, live attendance tracking, automated waitlists, certificates, and email integration.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
